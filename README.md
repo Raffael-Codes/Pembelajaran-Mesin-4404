@@ -38,7 +38,7 @@ Beberapa implementasi yang terdapat dalam project ini:
 
 ---
 
-## 👤 Author
+## 👤 Data Diri
 
 Nama: Anthonius Raffael Pangaribuan<br>
 NIM : A11.2024.15812<br>
